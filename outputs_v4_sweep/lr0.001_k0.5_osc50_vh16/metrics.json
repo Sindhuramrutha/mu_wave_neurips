@@ -1,0 +1,18 @@
+{
+  "best_val_loss": 4.735402308142511e-05,
+  "best_epoch": 134,
+  "epochs_run": 164,
+  "elapsed_sec": 4222.46507191658,
+  "config": {
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "kappa": 0.5,
+    "n_osc_per_side": 50,
+    "v_hidden": 16,
+    "readout_hidden": 32,
+    "teacher_forcing_end": 0.1,
+    "seed": 42,
+    "pad_pre": 20,
+    "pad_post": 20
+  }
+}
